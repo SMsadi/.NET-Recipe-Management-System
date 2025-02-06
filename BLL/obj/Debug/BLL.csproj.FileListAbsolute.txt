@@ -1,0 +1,14 @@
+C:\Users\fardi\source\repos\RecipeMS\BLL\bin\Debug\BLL.dll
+C:\Users\fardi\source\repos\RecipeMS\BLL\bin\Debug\BLL.pdb
+C:\Users\fardi\source\repos\RecipeMS\BLL\bin\Debug\AutoMapper.dll
+C:\Users\fardi\source\repos\RecipeMS\BLL\bin\Debug\DAL.dll
+C:\Users\fardi\source\repos\RecipeMS\BLL\bin\Debug\DAL.pdb
+C:\Users\fardi\source\repos\RecipeMS\BLL\bin\Debug\DAL.dll.config
+C:\Users\fardi\source\repos\RecipeMS\BLL\bin\Debug\AutoMapper.xml
+C:\Users\fardi\source\repos\RecipeMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\fardi\source\repos\RecipeMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\fardi\source\repos\RecipeMS\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\fardi\source\repos\RecipeMS\BLL\obj\Debug\BLL.dll
+C:\Users\fardi\source\repos\RecipeMS\BLL\obj\Debug\BLL.pdb
+C:\Users\fardi\source\repos\RecipeMS\BLL\bin\Debug\EntityFramework.dll
+C:\Users\fardi\source\repos\RecipeMS\BLL\bin\Debug\EntityFramework.xml
